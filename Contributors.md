@@ -131,6 +131,7 @@
   [Kevin Robitaille] (https://github.com/krobitaille93)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Dhruva Mahajan](https://github.com/dhruva169)
+- [Preethi Thumatti](https://github.com/preethi900)
 - [Rishad] (https://github.com/EvolOfThings)
 - [Vinod Sharma] (https://github.com/thesaadpatel)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
